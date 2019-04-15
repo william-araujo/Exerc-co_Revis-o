@@ -1,9 +1,30 @@
-body{
-    background-color: #116fff;
-}
+.pag ul li {
+    margin-left: 25px;
+    display: inline-block;
+    float: left;
+    list-style: none;
+    
+    }
+
+.pag {
+    width: 60%;
+    float: right;
+    }
+
+.border {
+    width: 100%;
+    background-color: #00bac6;
+    height: 60px;
+    }
+
+.menu ul li a:hover {
+    color: #ffff00;
+    
+    }
 
 h3{
 	text-align:right;
     padding-right:50px;
-    float:right;   
+    float:right;
+    height: 100px;  
 }
